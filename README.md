@@ -1,13 +1,11 @@
 # vaik-website
 This project to create the static website (http://vaik-bucket.s3-website-ap-southeast-2.amazonaws.com)
 
+In order to create the static website using the S3 bucket, you have to follow the below steps.
+
 1.Create an S3 Bucket:
 
-Log in to the AWS Management Console.
-Navigate to the S3 service.
-Click on "Create bucket" and provide a unique name for your bucket.
-Choose the region for your bucket.
-Leave the default settings as they are and click on "Create bucket."
+You have to the AWS Management Console and navigate to the S3. Then click on Create bucket and provide a unique name for your bucket. After that choose the region for your bucket. Finally leave the default settings as they are and click on Create bucket.
 
 2.Enable the static website hosting
 
